@@ -1,3 +1,3 @@
-# School Management System
+# Dev Branch
 
-A web-based application designed to help schools and teachers manage learners, track grades, and plan coursework efficiently.
+The main development branch where the frontend and backend branches are merged for integration testing before being deployed.
