@@ -1,3 +1,3 @@
-# School Management System
+# Frontend Branch
 
-A web-based application designed to help schools and teachers manage learners, track grades, and plan coursework efficiently.
+The branch where the frontend team works on features, UI updates, and other front-end changes.
