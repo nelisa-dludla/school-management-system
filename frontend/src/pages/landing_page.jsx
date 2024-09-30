@@ -79,7 +79,7 @@ const LandingPage = () => {
                             <h5 className="font-bold mb-4 text-gray-800 m-2">
                                 Command the Classroom, Without the Chaos
                             </h5>
-                            <p className="text-gray-700 m-2">
+                            <p className="text-black m-2">
                                 "Juggling schedules, assignments, and lesson plans just got easier. Keep everything in one place and manage your class like a pro. Less clutter, more clarity."
                             </p>
                         </div>
@@ -87,7 +87,7 @@ const LandingPage = () => {
                             <h5 className="font-bold mb-4 text-gray-800 m-2">
                                 Plan Today, Teach Tomorrow
                             </h5>
-                            <p className="text-gray-700 m-2">
+                            <p className="text-black m-2">
                                 "Create lesson plans that are as flexible as you are. Whether it’s a quick update or a full rework, our drag-and-drop planner makes it easy to build lessons that fit your teaching style."
                             </p>
                         </div>
@@ -95,7 +95,7 @@ const LandingPage = () => {
                             <h5 className="font-bold mb-4 text-gray-800 m-2">
                                 Grading? Done in a Snap.
                             </h5>
-                            <p className="text-gray-700 m-2">
+                            <p className="text-black m-2">
                                 "Say goodbye to late-night grading marathons. Our lightning-fast grading tools let you breeze through assessments and keep students informed, so you can get back to what really matters."
                             </p>
                         </div>
@@ -103,7 +103,7 @@ const LandingPage = () => {
                             <h5 className="font-bold mb-4 text-gray-800 m-2">
                                 Student Progress? You’re Always in the Know.
                             </h5>
-                            <p className="text-gray-700 m-2">
+                            <p className="text-black m-2">
                                 "Stop guessing. Get real-time insights into how your students are performing, where they’re struggling, and how you can help them succeed. Because every student matters."
                             </p>
                         </div>
