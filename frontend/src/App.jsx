@@ -1,12 +1,10 @@
-import {Route, Routes} from 'react-router-dom';
-import Home from './pages/homepage';
+import LandingPage from './pages/landing_page';
 
-function App() {
+const App = () => {
   return (
-    <Routes>
-      <Route index element={<Home />} />
-        <Route path='/home' element={<Home />} />
-    </Routes>
+    <div>
+      <LandingPage />
+    </div>
   );
 }
 
